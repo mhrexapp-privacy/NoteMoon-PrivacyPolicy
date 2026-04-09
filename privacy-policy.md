@@ -1,7 +1,7 @@
 # Privacy Policy – NoteMoon
 
 **App:** NoteMoon  
-**Last updated:** 20 March 2026
+**Last updated:** 09 April 2026
 
 ---
 
@@ -15,7 +15,7 @@ NoteMoon lets you write notes, attach images from your gallery, organize with ca
 
 ## Stored only on this device
 
-Notes, Trash, PIN/app-lock settings, security-recovery data you choose, theme (light/dark), and language preference are saved locally (on-device storage). They are not synced to our cloud because we do not provide a NoteMoon account or backend for your content.
+Notes, Trash, PIN/app-lock settings, security-recovery data you choose, theme (dark), and language preference are saved locally (on-device storage). They are not synced to our cloud because we do not provide a NoteMoon account or backend for your content.
 
 ## App lock & biometrics
 
@@ -25,7 +25,7 @@ Optional PIN lock uses a secure hash stored on the device—not your raw PIN. Fi
 
 Only with your action:
 
-- Share sends text to the app you pick.
+- Share sends text or files to the app you pick.
 - Copy puts note text on the clipboard.
 - Backup creates a JSON file (often under Downloads/NoteMoon on Android).
 - Export PDF uses device storage where available.
@@ -34,8 +34,7 @@ Opening a link in a note or visiting the Play Store from Settings opens your bro
 
 ## Permissions (Android)
 
-- **Photos/media:** so you can choose gallery images for notes.
-- **Storage (on older Android):** may be used so backups or exports can be written where the system allows.
+- **Photos/media:** so you can choose gallery images for notes. NoteMoon uses a system picker and is not designed to request broad access to all photos/videos on your device.
 - **Internet** is listed in the app manifest; NoteMoon is not designed to upload your notes to us. Network activity may occur when you use share, open URLs, or the system loads something outside our code.
 
 ## Analytics & advertising
@@ -72,6 +71,6 @@ We will respond to your inquiries in accordance with applicable law.
 
 ---
 
-*Last updated: 20 March 2026*
+*Last updated: 09 April 2026*
 
 © 2026 NoteMoon. All rights reserved.
